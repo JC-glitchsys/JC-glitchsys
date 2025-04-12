@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JC-glitchsys
-- 👀 I’m interested in 
-- 🌱 I’m currently learning CSS HTML
-- 📫 reach me on my socmed acc
 - 😄 Pronouns: She
 - ⚡ Fun fact: Crazyy
 
