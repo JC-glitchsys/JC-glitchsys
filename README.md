@@ -1,4 +1,4 @@
-# 👋 Hello there! Welcome to my GitHub profile!
+# 👋 Hello there! Welcome!
 
 I'm @JC-glitchsys, but you can just call me JO.  
 I'm currently an IT student who's super passionate about learning and creating cool stuff. I'm just starting out but very eager to grow and improve every day.
@@ -14,12 +14,6 @@ I'm currently an IT student who's super passionate about learning and creating c
 
 ### 💀 Fun Fact:
 I'm a little *crazyy* — in a fun and chaotic-good way. I like to break stuff so I can figure out how to fix it (especially with code 😅).
-
----
-
-### 🚀 Goals:
-- Get more comfortable with open-source contributions.
-- Build a personal portfolio soon!
 
 ---
 
