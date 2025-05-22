@@ -14,8 +14,3 @@ I'm currently an IT student who's super passionate about learning and creating c
 
 ### 💀 Fun Fact:
 I'm a little *crazyy* — in a fun and chaotic-good way. I like to break stuff so I can figure out how to fix it (especially with code 😅).
-
----
-
-Thanks for checking out my profile!  
-Feel free to follow or reach out — I'm always happy to connect and learn with fellow devs! 💬✨
