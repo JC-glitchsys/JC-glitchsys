@@ -7,6 +7,6 @@ I'm currently an IT student who's super passionate about learning and creating c
 
 
 
-## ✨ About Me:
+##  About Me:
 - 💁‍♀️ Pronouns: She/Her  
 - 💡 Interests: Front-end development
