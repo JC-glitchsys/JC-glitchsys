@@ -1,14 +1,17 @@
 
-name: Generate GitHub Snake
+name: Generate GitHub Profile Graphics
 
 on:
+  # Run every 12 hours
   schedule:
     - cron: "0 */12 * * *"
 
+  # Run whenever main receives a push
   push:
     branches:
       - main
 
+  # Allow manual execution
   workflow_dispatch:
 
 permissions:
@@ -16,9 +19,16 @@ permissions:
 
 jobs:
   generate:
+    name: Generate Snake and 3D Contributions
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
+      # 1. Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Generate snake animations
       - name: Generate snake animations
         uses: Platane/snk@v3
         with:
@@ -28,11 +38,25 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push snake animations to output branch
+      # 3. Generate 3D contribution graphs
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: JC-glitchsys
+
+      # 4. Move 3D graphics into dist
+      - name: Organize generated files
+        run: |
+          mkdir -p dist/profile-3d-contrib
+          cp -R profile-3d-contrib/. dist/profile-3d-contrib/
+
+      # 5. Deploy everything to output branch
+      - name: Deploy profile graphics
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "chore: update GitHub snake animations"
+          commit_message: "chore: update GitHub profile graphics"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
