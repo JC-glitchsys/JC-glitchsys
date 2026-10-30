@@ -1,4 +1,4 @@
-# Hi, I'm Jo! 👋
+# Hi, I'm Jo! 
 
 **IT Student | Frontend Developer | UI/UX & Creative Enthusiast**
 
