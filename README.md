@@ -6,16 +6,6 @@ I'm a Bachelor of Science in Information Technology student at Mindanao State Un
 
 I enjoy building web applications, exploring modern frontend technologies, and creating clean, user-friendly interfaces.
 
-### 🛠️ Tech Stack
-
-- **Frontend:** HTML, CSS, JavaScript, React.js, Vue.js
-- **Styling:** Tailwind CSS
-- **Tools:** Git, GitHub, Figma
-
-### 🚀 Featured Project
-
-**Lakbay Lanao** — A chatbot-enabled tourist guide platform designed to help people explore destinations in Lanao.
-
 ### 📊 GitHub Contributions
 
 <!-- GitHub Snake Animation -->
