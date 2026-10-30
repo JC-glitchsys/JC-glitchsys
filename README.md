@@ -17,4 +17,3 @@ I enjoy building web applications, exploring modern frontend technologies, and c
 
 ---
 
-*Always learning, building, and exploring new ideas.* 
