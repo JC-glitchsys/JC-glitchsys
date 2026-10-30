@@ -1,4 +1,4 @@
-# Hi, I'm Jo! 
+# Hi, I'm Jo!
 
 **IT Student | Frontend Developer | UI/UX & Creative Enthusiast**
 
@@ -18,32 +18,13 @@ I enjoy building web applications, exploring modern frontend technologies, and c
 
 ### 📊 GitHub Contributions
 
-<!-- 3D CONTRIBUTION GRAPH -->
+<!-- DARK 3D CONTRIBUTION GRAPH -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/profile-3d-contrib/profile-green-animate.svg"
+    src="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/profile-3d-contrib/profile-night-view.svg"
     width="100%"
-    alt="3D GitHub Contribution Graph"
+    alt="3D GitHub Contributions - Night View"
   />
-</p>
-
-<!-- SEASONAL 3D GRAPH: LIGHT / DARK MODE -->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/profile-3d-contrib/profile-night-view.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/profile-3d-contrib/profile-season-animate.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/profile-3d-contrib/profile-season.svg"
-      width="100%"
-      alt="Seasonal GitHub Contribution Graph"
-    />
-  </picture>
 </p>
 
 <!-- GITHUB SNAKE ANIMATION -->
