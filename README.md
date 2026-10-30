@@ -16,13 +16,6 @@ I enjoy building web applications, exploring modern frontend technologies, and c
 
 ---
 
-### 🚀 Featured Project
-
-**Lakbay Lanao**
-
-A chatbot-enabled tourist guide platform designed to help people explore destinations in Lanao.
-
----
 
 ### 📊 GitHub Contributions
 
