@@ -22,7 +22,7 @@ jobs:
       - name: Generate snake animations
         uses: Platane/snk@v3
         with:
-          github_user_name: JC-glytchsys
+          github_user_name: JC-glitchsys
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
