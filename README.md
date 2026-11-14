@@ -48,6 +48,4 @@ I enjoy building web applications, exploring modern frontend technologies, and c
 
 ---
 
-<p align="center">
-  *Always learning, building, and exploring new ideas.*
-</p>
+
