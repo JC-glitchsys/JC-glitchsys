@@ -8,7 +8,7 @@ I enjoy building web applications, exploring modern frontend technologies, and c
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Vue.js
 - **Styling:** Tailwind CSS
@@ -16,7 +16,7 @@ I enjoy building web applications, exploring modern frontend technologies, and c
 
 ---
 
-### 📊 GitHub Contributions
+###  GitHub Contributions
 
 <!-- DARK 3D CONTRIBUTION GRAPH -->
 <p align="center">
