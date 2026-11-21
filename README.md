@@ -15,7 +15,7 @@ I enjoy building web applications, exploring modern frontend technologies, and c
 - **Tools:** Git, GitHub, Figma
 
 ---
-[![JC-glitchsys's GitHub Pet](http://localhost:3000/api/pet?username=JC-glitchsys&pet=cat&tz=8)](http://localhost:3000/dashboard?u=JC-glitchsys)
+
 
 ###  GitHub Contributions
 
