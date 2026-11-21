@@ -1,39 +1,27 @@
-## Hi, I’m Jo!
+## Hey, I’m Jo 👋
 
-**IT Student | Frontend Developer | UI/UX & Creative Enthusiast**
+**IT student • Frontend dev • UI/UX**
 
-I’m a Bachelor of Science in Information Technology student at Mindanao State University, majoring in Database Systems.
+She’s cooking up things for the web. ✨
 
-I enjoy building web applications, exploring modern frontend technologies, and creating clean, user-friendly interfaces.
+### Tech stack
 
----
+`HTML` · `CSS` · `JavaScript` · `React` · `Vue` · `Tailwind` · `Git` · `Figma`
 
-### Tech Stack
+### GitHub activity
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Vue.js
-- **Styling:** Tailwind CSS
-- **Tools:** Git, GitHub, Figma
-
----
-
-### GitHub Contributions
-
-<!-- DARK 3D CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions - Night View" />
+  <img src="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contributions" />
 </p>
 
-<!-- GITHUB SNAKE ANIMATION -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+    <img src="https://raw.githubusercontent.com/JC-glitchsys/JC-glitchsys/output/github-snake.svg" width="100%" alt="GitHub contribution snake" />
   </picture>
 </p>
 
----
-
 ### My GitHub Pet
 
-[![JC-glitchsys's GitHub Pet](https://pet-five-hazel.vercel.app/api/pet?username=JC-glitchsys&pet=cat&tz=8)](https://pet-five-hazel.vercel.app/dashboard?u=JC-glitchsys)
+[![JC-glitchsys’s GitHub Pet](https://pet-five-hazel.vercel.app/api/pet?username=JC-glitchsys&pet=cat&tz=8)](https://pet-five-hazel.vercel.app/dashboard?u=JC-glitchsys)
