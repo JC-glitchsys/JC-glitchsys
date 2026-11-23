@@ -36,4 +36,4 @@ I enjoy building web applications, exploring modern frontend technologies, and c
 
 ### My GitHub Pet
 
-[![JC-glitchsys's GitHub Pet](https://pet-five-hazel.vercel.app/api/pet?username=JC-glitchsys&pet=capybara&tz=8&name=Ishaaq)](https://pet-five-hazel.vercel.app/dashboard?u=JC-glitchsys))
+[![JC-glitchsys's GitHub Pet](https://pet-five-hazel.vercel.app/api/pet?username=JC-glitchsys&pet=capybara&tz=8&name=Ishaaq)](https://pet-five-hazel.vercel.app/dashboard?u=JC-glitchsys)
